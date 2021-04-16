@@ -4,6 +4,4 @@ C
 D
 E
 TESTEBRANCHE
-Enviando funcionalide
-x
-Enviando a funcionalidade B
+ATUALIZAÇÃO 1
